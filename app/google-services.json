@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "300916852724",
+    "firebase_url": "https://werp-nigeria-app.firebaseio.com",
+    "project_id": "werp-nigeria-app",
+    "storage_bucket": "werp-nigeria-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300916852724:android:940485dd7c68b321",
+        "android_client_info": {
+          "package_name": "com.werp_nigeria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300916852724-pjdo8c6m4h9joeomr4i7j0n0mgauv1el.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAelX5jNC3UaYv9o2EDnjsZ0_8rBhzwW8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300916852724-pjdo8c6m4h9joeomr4i7j0n0mgauv1el.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
