@@ -1,34 +1,87 @@
 {
   "project_info": {
-    "project_number": "300916852724",
-    "firebase_url": "https://werp-nigeria-app.firebaseio.com",
-    "project_id": "werp-nigeria-app",
-    "storage_bucket": "werp-nigeria-app.appspot.com"
+    "project_number": "156472177016",
+    "firebase_url": "https://internnigeria-6f9f6.firebaseio.com",
+    "project_id": "internnigeria-6f9f6",
+    "storage_bucket": "internnigeria-6f9f6.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:300916852724:android:940485dd7c68b321",
+        "mobilesdk_app_id": "1:156472177016:android:b6da5ea6da02dab2",
         "android_client_info": {
-          "package_name": "com.werp_nigeria"
+          "package_name": "com.example.applicantprofile20"
         }
       },
       "oauth_client": [
         {
-          "client_id": "300916852724-pjdo8c6m4h9joeomr4i7j0n0mgauv1el.apps.googleusercontent.com",
+          "client_id": "156472177016-98da5u1vrmcg9fg7fam25qu7k6m244b8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.applicantprofile20",
+            "certificate_hash": "589e3df4c7ef9004ea6fd67793af51d2f575bd8d"
+          }
+        },
+        {
+          "client_id": "156472177016-hh9r7valdtd1ef731vsso37otc4qc1q7.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAelX5jNC3UaYv9o2EDnjsZ0_8rBhzwW8o"
+          "current_key": "AIzaSyDP8lR28yeYFPFNwqsTGvDmfX6pv9jCTew"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "300916852724-pjdo8c6m4h9joeomr4i7j0n0mgauv1el.apps.googleusercontent.com",
+              "client_id": "156472177016-hh9r7valdtd1ef731vsso37otc4qc1q7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156472177016:android:d6487c311aef7f3a",
+        "android_client_info": {
+          "package_name": "com.werpindia.internnigeria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156472177016-utiqb2bveopvson7nrmob9pu9cliibvr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.werpindia.internnigeria",
+            "certificate_hash": "589e3df4c7ef9004ea6fd67793af51d2f575bd8d"
+          }
+        },
+        {
+          "client_id": "156472177016-27v7j0tuokjhnmk2rb1jqbf242ioosth.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.werpindia.internnigeria",
+            "certificate_hash": "abe6b0577c2795a5651fd298def208b38d18483e"
+          }
+        },
+        {
+          "client_id": "156472177016-hh9r7valdtd1ef731vsso37otc4qc1q7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP8lR28yeYFPFNwqsTGvDmfX6pv9jCTew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156472177016-hh9r7valdtd1ef731vsso37otc4qc1q7.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

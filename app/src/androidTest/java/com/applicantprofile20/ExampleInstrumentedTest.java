@@ -1,4 +1,4 @@
-package com.werp_nigeria;
+package com.applicantprofile20;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

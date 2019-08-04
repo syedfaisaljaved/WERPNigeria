@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".SignUp">
+    tools:context=".SignUpActivity">
 
     <RelativeLayout
         android:background="@color/greyBlack"
@@ -27,7 +27,7 @@
 
             <EditText
                 android:cursorVisible="false"
-                android:gravity="center"
+                android:paddingLeft="15dp"
                 android:textColor="@android:color/white"
                 android:textColorHint="@android:color/darker_gray"
                 android:layout_marginBottom="8dp"
@@ -44,7 +44,7 @@
 
             <EditText
                 android:cursorVisible="false"
-                android:gravity="center"
+                android:paddingLeft="15dp"
                 android:textColor="@android:color/white"
                 android:textColorHint="@android:color/darker_gray"
                 android:layout_marginBottom="8dp"
@@ -61,7 +61,7 @@
 
             <EditText
                 android:cursorVisible="false"
-                android:gravity="center"
+                android:paddingLeft="15dp"
                 android:textColor="@android:color/white"
                 android:textColorHint="@android:color/darker_gray"
                 android:layout_marginBottom="8dp"

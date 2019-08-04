@@ -1,4 +1,4 @@
-package com.werp_nigeria;
+package com.applicantprofile20;
 
 import org.junit.Test;
 
